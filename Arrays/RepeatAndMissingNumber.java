@@ -1,5 +1,3 @@
-//Platform : InterviewBit
-
 public class Solution {
     // DO NOT MODIFY THE LIST. IT IS READ ONLY
     public ArrayList<Integer> repeatedNumber(final List<Integer> A) {
